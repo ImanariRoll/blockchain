@@ -8,23 +8,24 @@ ontology of bitcoin:
 
 Static components:
 Block
-  prev hash
-  nonce
-  merkle tree
+  * prev hash
+  * nonce
+  * merkle tree
 Blockchain
+  * list of blocks
 
 Dynamic componenets:
-NodeServer
-  local blockchain
-  scan for transactions
-  broadcast transactions
-  scan for blocks
-  broadcast blocks
-  mine block (proof-of-work)
+* NodeServer
+  * local blockchain
+  * scan for transactions
+  * broadcast transactions
+  * scan for blocks
+  * broadcast blocks
+  * mine block (proof-of-work)
   
 Transactor
-  public key
-  send transactions to NodeServers
+  * public key
+  * send transactions to NodeServers
 
 
 Paper: https://bitcoin.org/bitcoin.pdf
