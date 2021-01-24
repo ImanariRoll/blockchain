@@ -60,10 +60,9 @@ LOG:
 ----------------------------------------------------
 01/24/2021
 
-*inclusion proof
-  *fixed merkle tree class
-  *added parents to nodes
-  *created repo
+  * fixed merkle tree class
+  * added parents to nodes
+  * created repo
 
 
 
