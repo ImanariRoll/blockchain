@@ -55,15 +55,15 @@ LOG:
 ----------------------------------------------------
 01/22/2021
 
--wrote merkle tree class
+* wrote merkle tree class
 
 ----------------------------------------------------
 01/24/2021
 
--inclusion proof
-  -fixed merkle tree class
-  -added parents to nodes
-  -created repo
+*inclusion proof
+  *fixed merkle tree class
+  *added parents to nodes
+  *created repo
 
 
 
