@@ -7,11 +7,11 @@ Watch me attempt to write a blockchain from scratch in python while sometimes dr
 ontology of bitcoin:
 
 Static components:
-Block
+* Block
   * prev hash
   * nonce
   * merkle tree
-Blockchain
+* Blockchain
   * list of blocks
 
 Dynamic componenets:
@@ -23,7 +23,7 @@ Dynamic componenets:
   * broadcast blocks
   * mine block (proof-of-work)
   
-Transactor
+* Transactor
   * public key
   * send transactions to NodeServers
 
