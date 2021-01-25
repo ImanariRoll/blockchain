@@ -65,6 +65,9 @@ LOG:
   * added parents to nodes
   * created repo
 
+  * implemented getProof
+  * implemented verifyProof
 
+----------------------------------------------------
 
 
